@@ -1,0 +1,15 @@
+# One ticker per line. The data job reads this file; edit it on GitHub to change what the site tracks.
+SPY
+QQQ
+AAPL
+MSFT
+NVDA
+GOOGL
+AMZN
+META
+TSLA
+JPM
+WMT
+XOM
+GC=F   # gold futures
+GLD    # gold ETF
